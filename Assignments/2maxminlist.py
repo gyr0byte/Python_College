@@ -1,7 +1,7 @@
-n = int(input("How many numbers will you like to input?"))
+n = int(input("How many numbers will you like to input? "))
 listnum = []
 for i in range(n):
-    num = int(input(f"Enter the {i+1} Number"))
+    num = int(input(f"Enter the {i+1} Number "))
     listnum.append(num)
     
 min = listnum[0]

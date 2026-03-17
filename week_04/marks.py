@@ -29,3 +29,6 @@ elif average >= 50:
     grade = "D"
 else:
     grade = "F"
+    
+print(f"{name}, your highest mark is {highest}, your lowest mark is {lowest}")
+print(f"Your average mark is {average} and your grade is {grade}")
