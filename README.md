@@ -13,6 +13,7 @@ This repository includes:
 - Basic Python programs for logic building
 - Math and number-based exercises
 - List and array operations
+- Dictionary and matrix operations
 - Practical mini problems (salary, marks, shopping, billing, etc.)
 
 ## Repository Structure
@@ -60,6 +61,10 @@ This repository includes:
     ├── menu.py
     ├── odd_placed.py
     └── unique_elements.py
+└── week_06/
+    ├── 2d_dicts.py
+    ├── matrix.py
+    └── names_marks.py
 ```
 
 ## Getting Started
@@ -89,6 +94,7 @@ python Assignments/3fibonacci.py
 - Functions
 - Number theory basics (factorial, prime, GCD)
 - List operations (sorting, unique elements, indexing)
+- Dictionaries and 2D list/matrix fundamentals
 - Real-life calculation programs
 
 ## Notes
