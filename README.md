@@ -51,16 +51,16 @@ This repository includes:
 │   ├── products.py
 │   ├── products2.py
 │   └── unique_element.py
-└── week_05/
-    ├── combined.py
-    ├── combined2.py
-    ├── divisble_by_3.py
-    ├── elements_add.py
-    ├── elements_add2.py
-    ├── even_placed.py
-    ├── menu.py
-    ├── odd_placed.py
-    └── unique_elements.py
+├── week_05/
+│   ├── combined.py
+│   ├── combined2.py
+│   ├── divisble_by_3.py
+│   ├── elements_add.py
+│   ├── elements_add2.py
+│   ├── even_placed.py
+│   ├── menu.py
+│   ├── odd_placed.py
+│   └── unique_elements.py
 └── week_06/
     ├── 2d_dicts.py
     ├── matrix.py
