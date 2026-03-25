@@ -62,9 +62,12 @@ This repository includes:
 │   ├── odd_placed.py
 │   └── unique_elements.py
 └── week_06/
+    ├── 2D_list.py
+    ├── 2D_list_max_min.py
     ├── 2d_dicts.py
     ├── matrix.py
-    └── names_marks.py
+    ├── names_marks.py
+    └── unique_descending_list.py
 ```
 
 ## Getting Started
