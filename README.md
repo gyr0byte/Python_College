@@ -69,6 +69,7 @@ This repository includes:
 │   ├── names_marks.py
 │   └── unique_descending_list.py
 └── week_07/
+    ├── index_search.py
     ├── sum_of_stringnums.py
     └── vowels_consonent.py
 ```
