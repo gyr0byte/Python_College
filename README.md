@@ -61,13 +61,16 @@ This repository includes:
 │   ├── menu.py
 │   ├── odd_placed.py
 │   └── unique_elements.py
-└── week_06/
-    ├── 2D_list.py
-    ├── 2D_list_max_min.py
-    ├── 2d_dicts.py
-    ├── matrix.py
-    ├── names_marks.py
-    └── unique_descending_list.py
+├── week_06/
+│   ├── 2D_list.py
+│   ├── 2D_list_max_min.py
+│   ├── 2d_dicts.py
+│   ├── matrix.py
+│   ├── names_marks.py
+│   └── unique_descending_list.py
+└── week_07/
+    ├── sum_of_stringnums.py
+    └── vowels_consonent.py
 ```
 
 ## Getting Started
@@ -98,6 +101,7 @@ python Assignments/3fibonacci.py
 - Number theory basics (factorial, prime, GCD)
 - List operations (sorting, unique elements, indexing)
 - Dictionaries and 2D list/matrix fundamentals
+- String processing (character and numeric string operations)
 - Real-life calculation programs
 
 ## Notes
