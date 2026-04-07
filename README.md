@@ -69,9 +69,16 @@ This repository includes:
 │   ├── names_marks.py
 │   └── unique_descending_list.py
 └── week_07/
+    ├── anagram.py
+    ├── common_word.py
     ├── index_search.py
+    ├── palindrome.py
+    ├── sum_of_even.py
+    ├── sum_of_odd.py
     ├── sum_of_stringnums.py
-    └── vowels_consonent.py
+    ├── unique_word.py
+    ├── vowels_consonent.py
+    └── word_with_numeric.py
 ```
 
 ## Getting Started
@@ -103,6 +110,7 @@ python Assignments/3fibonacci.py
 - List operations (sorting, unique elements, indexing)
 - Dictionaries and 2D list/matrix fundamentals
 - String processing (character and numeric string operations)
+- Word and text analysis (anagram, palindrome, uniqueness)
 - Real-life calculation programs
 
 ## Notes
