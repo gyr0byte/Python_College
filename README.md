@@ -68,17 +68,28 @@ This repository includes:
 │   ├── matrix.py
 │   ├── names_marks.py
 │   └── unique_descending_list.py
-└── week_07/
-    ├── anagram.py
-    ├── common_word.py
-    ├── index_search.py
-    ├── palindrome.py
-    ├── sum_of_even.py
-    ├── sum_of_odd.py
-    ├── sum_of_stringnums.py
-    ├── unique_word.py
-    ├── vowels_consonent.py
-    └── word_with_numeric.py
+├── week_07/
+│   ├── anagram.py
+│   ├── common_word.py
+│   ├── index_search.py
+│   ├── palindrome.py
+│   ├── sum_of_even.py
+│   ├── sum_of_odd.py
+│   ├── sum_of_stringnums.py
+│   ├── unique_word.py
+│   ├── vowels_consonent.py
+│   └── word_with_numeric.py
+└── week_08/
+    ├── data.txt
+    ├── file.txt
+    ├── file_append.py
+    ├── file_read.py
+    ├── file_write.py
+    ├── lab8.txt
+    ├── log.txt
+    ├── numbers.py
+    ├── output.txt
+    └── r_plus.py
 ```
 
 ## Getting Started
@@ -111,6 +122,7 @@ python Assignments/3fibonacci.py
 - Dictionaries and 2D list/matrix fundamentals
 - String processing (character and numeric string operations)
 - Word and text analysis (anagram, palindrome, uniqueness)
+- File handling (read, write, append, and r+ mode)
 - Real-life calculation programs
 
 ## Notes
