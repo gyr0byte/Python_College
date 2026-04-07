@@ -1,9 +1,16 @@
 lst = []
 with open("week_08/lab8.txt", "r") as file:
     for data in file:
-        if data.strip():
-            lst.extend(int(x.strip())
-                       for x in data.strip().split(",") if x.strip())
+
+        if data.strip() == "":
+            continue
+        
+        line = data.strip()
+        values = line.split(",")
+        
+        for x in values:
+            if x.strip() != "":
+                lst.append(int(x.strip()))
 sum = 0
 min = lst[0]
 max = lst[0]
