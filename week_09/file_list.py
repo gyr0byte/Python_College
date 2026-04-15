@@ -28,3 +28,9 @@ def update(data):
                 print("Enter a numeric value")
     if not found:
         print("id not found!")
+        
+def write(filename, data):
+    with open(filename, "w") as file:
+        for i in data:
+            line = f"{i[0]},{i[1]},{i[2]}\n"
+            
