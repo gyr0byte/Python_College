@@ -90,6 +90,10 @@ This repository includes:
     ├── numbers.py
     ├── output.txt
     └── r_plus.py
+├── week_09/
+│   ├── data.txt
+│   ├── file_list.py
+│   └── main.py
 ```
 
 ## Getting Started
@@ -123,6 +127,7 @@ python Assignments/3fibonacci.py
 - String processing (character and numeric string operations)
 - Word and text analysis (anagram, palindrome, uniqueness)
 - File handling (read, write, append, and r+ mode)
+- Basic file and directory listing practice
 - Real-life calculation programs
 
 ## Notes
