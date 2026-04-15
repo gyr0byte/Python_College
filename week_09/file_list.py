@@ -10,4 +10,8 @@ def read(path):
         for line in file:
             lst.append(line.strip().split(", "))
     return lst
+
+def add(data, sid, name, mark):
+    data.append([sid, name, mark])
+    
     
