@@ -29,8 +29,8 @@ def update(data):
     if not found:
         print("id not found!")
         
-def write(filename, data):
-    with open(filename, "w") as file:
+def write(path, data):
+    with open(path, "w") as file:
         for i in data:
             line = f"{i[0]},{i[1]},{i[2]}\n"
             
