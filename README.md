@@ -79,7 +79,7 @@ This repository includes:
 │   ├── unique_word.py
 │   ├── vowels_consonent.py
 │   └── word_with_numeric.py
-└── week_08/
+├── week_08/
     ├── data.txt
     ├── file.txt
     ├── file_append.py
@@ -90,7 +90,7 @@ This repository includes:
     ├── numbers.py
     ├── output.txt
     └── r_plus.py
-├── week_09/
+└── week_09/
 │   ├── data.txt
 │   ├── file_list.py
 │   └── main.py
