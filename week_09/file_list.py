@@ -13,5 +13,18 @@ def read(path):
 
 def add(data, sid, name, mark):
     data.append([sid, name, mark])
-    
-    
+
+def update(data):
+    id = input("Enter a ID: ")
+    found = False
+    for i in data:
+        if id == i[0]:
+            found = True
+            try:
+                mark = input("Enter a marks: ")
+                i[2] = mark
+                print("Update Successful!")
+            except:
+                print("Enter a numeric value")
+    if not found:
+        print("id not found!")
